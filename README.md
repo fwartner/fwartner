@@ -13,3 +13,5 @@ Unfortunately some projects went offline due to the amount of time i needed to s
 - 🤔 I’m looking for help with AWS Lambda + EFS
 - 💬 Ask me about infrastructure and laravel
 - 📫 How to reach me: Check my [personal website](https://wartner.io)
+
+![fwartner's github stats](https://github-readme-stats.vercel.app/api?username=fwartner&show_icons=true)

@@ -3,10 +3,11 @@
 I´m florian and i :heart: to create open source products.
 Most of the time I´m working with [Laravel](https://laravel.com) - The most popular PHP-Framework.
 
-In the past I created projects like [Laramap](https://github.com/laramap) & [PHPMap](https://github.com/PHPMap) or [Tinkerwell-Snippets.com](https://tinkerwell-snippets.com).
+In the past I created projects like [Laramap](https://github.com/laramap) & [PHPMap](https://github.com/PHPMap).
 Unfortunately some projects went offline due to the amount of time i needed to spend on both projects.
 
 #### Some facts about me
+- 👨‍💻 I´m a Solution Architect at @nexusunited
 - 🔭 I’m currently working on [@Kiddido](https://github.com/Kiddido)
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on Laravel Projects

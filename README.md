@@ -15,4 +15,4 @@ Unfortunately some projects went offline due to the amount of time i needed to s
 - 💬 Ask me about infrastructure and laravel
 - 📫 How to reach me: Check my [personal website](https://wartner.io)
 
-If you like what I'm doing please consider [sponsor my work](https://github.com/sponsors/fwartner).
+If you like what I´m doing please consider [sponsor my work](https://github.com/sponsors/fwartner).

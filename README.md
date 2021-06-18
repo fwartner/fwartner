@@ -16,5 +16,3 @@ Unfortunately some projects went offline due to the amount of time i needed to s
 - 📫 How to reach me: Check my [personal website](https://wartner.io)
 
 If you like what I'm doing please consider [sponsor my work](https://github.com/sponsors/fwartner).
-
-![fwartner's github stats](https://github-readme-stats.vercel.app/api?username=fwartner&show_icons=true)

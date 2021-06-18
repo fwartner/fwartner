@@ -7,7 +7,7 @@ In the past I created projects like [Laramap](https://github.com/laramap) & [PHP
 Unfortunately some projects went offline due to the amount of time i needed to spend on both projects.
 
 #### Some facts about me
-- 👨‍💻 I´m a Solution Architect at @nexusunited
+- 👨‍💻 I´m a Solution Architect at [@nexusunited](https://github.com/nexusunited)
 - 🔭 I’m currently working on [@Kiddido](https://github.com/Kiddido)
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on Laravel Projects

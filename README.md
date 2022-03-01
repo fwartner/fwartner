@@ -34,9 +34,3 @@ I highly appreciate you sending us a postcard from your hometown, mentioning whi
 
 ### Note
 This section is inspired by my friends at [Spatie](https://github.com/spatie).
-
-#### ❤️  My kind sponsors 
-
-- [@jeffmurch](https://github.com/jeffmurch)
-- [@fooforge](https://github.com/fooforge)
-- [@jbrooksuk](https://github.com/jbrooksuk)

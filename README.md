@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://wartner.io/projects](https://wartner.io/projects)
 
-- 📝 I regularly write articles on [https://wartner.io/blog](https://wartner.io/blog)
+- 📝 I regularly write articles on [https://wartner.io/](https://wartner.io/)
 
 - 💬 Ask me about **Laravel, AWS, Docker, E-Commerce**
 

@@ -99,7 +99,12 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->
+- [Automating Daily Routines with Home Assistant](https://wartner.io/automating-daily-routines-with-home-assistant/)
+- [Mastering Home Assistant Scenes](https://wartner.io/mastering-home-assistant-scenes/)
+- [Welcome to My Smarthome Adventure: Let&#39;s Automate Everything!](https://wartner.io/welcome-to-my-smarthome-adventure-lets-automate-everything/)
+- [Transform Your Home Automation with Home Assistant Blueprints](https://wartner.io/transform-your-home-automation-with-home-assistant-blueprints/)
+- [Optimize Your Home Assistant with Energy Monitoring](https://wartner.io/optimize-your-home-assistant-with-energy-monitoring/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  

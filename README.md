@@ -1,14 +1,6 @@
 ### <div align="center">I'm Florian, a full-time Cloud Enthusiast 👨‍💻 working remotely since 2020 🚀</div>  
   
-
-- 🔭 I’m currently working at [ontracon GmbH](https://ontracon.de) as a Senior Cloud Consultant  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- 🌱 I’m currently learning Hyperledger and Kubernetes    
 
 - ⚡ Fun fact: I use tabs over spaces  
   

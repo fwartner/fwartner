@@ -1,123 +1,79 @@
-### <div align="center">I'm Florian, a full-time Cloud Enthusiast 👨‍💻 working remotely since 2020 🚀</div>  
+<h1 align="center">Hi there, I'm Florian Wartner! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+<p align="center">
+  <a href="https://wartner.io">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Creator+%F0%9F%9A%80;Tabs+%3E+Spaces+Team" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  I'm a <b>Cloud Enthusiast</b> and <b>PHP/Laravel Developer</b> working remotely from Lübeck, Germany. I specialize in building robust backend systems, automating macOS workflows, and enhancing Home Assistant setups.
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/fwartner">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor">
+  </a>
+  <a href="https://twitter.com/fwartner">
+    <img src="https://img.shields.io/twitter/follow/fwartner?style=social" alt="Twitter">
+  </a>
+  <a href="https://wartner.io">
+    <img src="https://img.shields.io/badge/Website-wartner.io-blue?style=flat&logo=google-chrome" alt="Website">
+  </a>
+</p>
+
+---
+
+### 🛠️ **Tech Stack & Tools**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   
-- 🌱 I’m currently learning Hyperledger and Kubernetes    
-
-- ⚡ Fun fact: I use tabs over spaces  
+  <br/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/hyperledger-%232F3134.svg?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
   
+  <br/>
+  <img src="https://img.shields.io/badge/Home%20Assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Home Assistant"/>
+  <img src="https://img.shields.io/badge/mac%20os-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
+</p>
 
-<br/>  
+---
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
-<a href="https://www.influxdata.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/fwartner" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/fwartner" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/florian-wartner-7a7658b8" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/fwartner" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fwartner&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-- [Automating Daily Routines with Home Assistant](https://wartner.io/automating-daily-routines-with-home-assistant/)
-- [Mastering Home Assistant Scenes](https://wartner.io/mastering-home-assistant-scenes/)
-- [Welcome to My Smarthome Adventure: Let&#39;s Automate Everything!](https://wartner.io/welcome-to-my-smarthome-adventure-lets-automate-everything/)
-- [Transform Your Home Automation with Home Assistant Blueprints](https://wartner.io/transform-your-home-automation-with-home-assistant-blueprints/)
-- [Optimize Your Home Assistant with Energy Monitoring](https://wartner.io/optimize-your-home-assistant-with-energy-monitoring/)
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
+### 📊 **GitHub Stats**
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/fwartner" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a>
-            <a href="https://ko-fi.com/fwartner" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="center"
-                />
-            </a></div>
-<br />
+  <a href="https://github.com/fwartner">
+    <img src="https://github-readme-stats.vercel.app/api?username=fwartner&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Florian's GitHub Stats" />
+  </a>
+  <a href="https://github.com/fwartner">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwartner&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
+</div>
 
-----
+---
+
+### 🚀 **Featured Projects**
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| [**mac-cleanup-sh**](https://github.com/mac-cleanup/mac-cleanup-sh) | 🗑️ A powerful cleanup script for macOS to free up space and remove junk. | `Shell` `macOS` |
+| [**HA Wakewords**](https://github.com/fwartner/home-assistant-wakewords-collection) | 🗣️ Community collection of Wake-Words for Home Assistant (openWakeWord). | `Python` `AI` |
+| [**Wartner.io**](https://github.com/fwartner/wartner.io) | 🌐 Source code for my personal website and digital garden. | `Laravel` `Tailwind` |
+| [**Docudigger**](https://github.com/Disane87/docudigger) | 📄 Website scraper for getting invoices automagically as PDF. | `TypeScript` |
+
+---
+
+### 🌱 **About Me**
+
+- 🔭 I’m currently working on improving **Home Assistant** integrations.
+- 🌱 I’m deeply into **Kubernetes** and **Cloud Architecture**.
+- 💬 Ask me about **Laravel, macOS automation, and smart home setups**.
+- ⚡ **Fun fact:** I use tabs over spaces (and I'm willing to fight for it).
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
